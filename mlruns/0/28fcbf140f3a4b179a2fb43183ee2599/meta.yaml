@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ABHISHEK/Abhi/PES/Yolov5/mlruns/0/28fcbf140f3a4b179a2fb43183ee2599/artifacts
+end_time: 1658421260200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 28fcbf140f3a4b179a2fb43183ee2599
+run_uuid: 28fcbf140f3a4b179a2fb43183ee2599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1658421259610
+status: 4
+tags: []
+user_id: abhis
